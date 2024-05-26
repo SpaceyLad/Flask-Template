@@ -18,7 +18,7 @@ https://spaceylad.tech/(Comming_soon)
 1. **Clone the repository**:
     ```
     git clone <repository-url>
-    cd flask_app
+    cd Flask-Template
     ```
 
 2. **Create a virtual environment** (optional but recommended):
